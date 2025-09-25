@@ -1,1 +1,4 @@
-com\Main.class
+com\App.class
+com\ModuloLibros.class
+com\ModuloPrestamos.class
+com\ModuloUsuarios.class
