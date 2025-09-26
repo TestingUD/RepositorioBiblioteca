@@ -1,4 +1,7 @@
-com\App.class
 com\ModuloLibros.class
 com\ModuloPrestamos.class
+com\gestionUsuarios\Gestion_de_Usuarios.class
+com\App.class
+com\gestionUsuarios\Repositorio.class
+com\gestionUsuarios\Usuario.class
 com\ModuloUsuarios.class
