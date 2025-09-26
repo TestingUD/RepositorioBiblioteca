@@ -1,0 +1,6 @@
+id,pr,archivo,linea,tipo,severidad,descripcion,estado,reportado_por,decidido_por,comentarios
+1,03,App.java,0,Configuración,Media,No se implementaron pruebas unitarias para validar la funcionalidad de gestión de usuarios,Abierto,Jose R,Equipo,Se recomienda usar JUnit para asegurar calidad.
+2,03,pom.xml,0,Configuración,Alta,No se utilizó Maven por defecto para la gestión de dependencias y compilación,Abierto,Jose R,Equipo,Configurar proyecto con Maven facilitaría integración y build.
+3,03,*,0,Build,Alta,Los archivos .class se generaron en la misma carpeta src en lugar de target,Abierto,Jose R,Equipo,Configurar directorio de salida apropiado con Maven o javac -d.
+4,03,CalculadoraBasica.java,25,Código,Baja,Falta de comentarios y documentación en los métodos principales,Abierto,Jose R,Equipo,Agregar javadoc para mejorar mantenibilidad.
+5,03,CodigoEjecutor.java,40,Código,Media,El manejo de excepciones es inexistente en la ejecución de operaciones,Abierto,Jose R,Equipo,Se deben capturar y registrar posibles errores.
