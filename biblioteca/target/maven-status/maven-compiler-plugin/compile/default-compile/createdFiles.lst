@@ -1,4 +1,6 @@
 com\App.class
 com\ModuloLibros.class
+com\gestionLibros\Libro.class
+com\gestionLibros\ModuloLibro.class
 com\ModuloPrestamos.class
 com\ModuloUsuarios.class

@@ -1,0 +1,4 @@
+ID;Modulo;Descripcion;Severidad;Estado;Responsable
+DF-01;Gestion de Usuarios;El sistema permite registrar un usuario sin nombre;Alta;Abierto;Fercho
+DF-02;Gestion de Usuarios;La consulta de usuario no muestra mensaje claro cuando no existe;Media;Abierto;Fercho
+DF-03;Gestion de Usuarios;El sistema permite eliminar un usuario que tiene pr�stamos activos;Cr�tica;Abierto;Fercho
